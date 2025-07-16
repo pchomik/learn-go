@@ -1,4 +1,4 @@
-# 🚀 Learning Go with Dual Approach
+# 🚀 Learning Go
 
 <div align="center">
 
@@ -18,7 +18,7 @@ Welcome to my personal **Go learning journey**! This repository contains my solu
 
 ### 🌟 My Recommended Learning Path
 
-After extensive experimentation, I've discovered the **perfect combination** for learning Go:
+I've discovered the **perfect combination** for learning Go:
 
 #### 🥇 **Step 1: Go Tour (Official Foundation)**
 
@@ -121,7 +121,5 @@ My proven approach to mastering Go:
 <div align="center">
 
 **Happy Coding!** 🎉
-
-_Made with ❤️ while learning Go through Tour + Exercism_
 
 </div>
