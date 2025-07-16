@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Go Logo](https://golang.org/lib/godoc/images/go-logo-blue.svg)
+![Go Logo](https://go.dev/images/go-logo-blue.svg)
 
 ### 🎯 Master Go Programming with Official Tour + Exercism
 
