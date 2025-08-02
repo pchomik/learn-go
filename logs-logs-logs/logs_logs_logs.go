@@ -27,9 +27,9 @@ func Replace(log string, oldRune, newRune rune) string {
 	var newLog string
 	for _, char := range log {
 		if char == oldRune {
-			newLog += fmt.Sprintf("%c", newRune)
+			newLog += string(newRune)
 		} else {
-			newLog += fmt.Sprintf("%c", char)
+			newLog += string(char)
 		}
 	}
 	return newLog
